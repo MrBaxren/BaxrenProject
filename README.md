@@ -13,3 +13,5 @@ Tüm yazılımlarımız **Açık Kaynak** ve **Özgür Yazılımdır** sonraki t
 [BaxrenCalculatorCLI](https://github.com/MrBaxren/BaxrenCalculatorCLI)
 
 [BaxrenSearchTerminal](https://github.com/MrBaxren/BaxrenSearchTerminal)
+
+.[BaxrenCompressionService](https://github.com/MrBaxren/BaxrenCompressionService)
