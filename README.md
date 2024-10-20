@@ -11,3 +11,4 @@ Tüm yazılımlarımız **Açık Kaynak** ve **Özgür Yazılımdır** sonraki t
 
 # Baxren Projesi Yazılımları:
 [BaxrenCalculatorCLI](https://github.com/MrBaxren/BaxrenCalculatorCLI)
+[BaxrenSearchEngine](https://github.com/MrBaxren/BaxrenSearchTerminal)
