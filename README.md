@@ -14,4 +14,4 @@ Tüm yazılımlarımız **Açık Kaynak** ve **Özgür Yazılımdır** sonraki t
 
 [BaxrenSearchTerminal](https://github.com/MrBaxren/BaxrenSearchTerminal)
 
-.[BaxrenCompressionService](https://github.com/MrBaxren/BaxrenCompressionService)
+[BaxrenCompressionService](https://github.com/MrBaxren/BaxrenCompressionService)
